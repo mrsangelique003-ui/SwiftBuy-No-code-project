@@ -66,23 +66,23 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](Images/HOME.jepg)
+![Homepage](Images/HOME.jpeg)
 *Hero section featuring the SwiftBuy tagline and a promotional flash-sale banner.*
 
 ### 🛍️ Products Page
-![Products Page](Images/PRODUCTS.jepg)
+![Products Page](Images/PRODUCTS.jpeg)
 *All Products listing — 6 items with images and RWF pricing.*
 
 ### 👥 About Page
-![About Page](Images/ABOUT.jepg)
+![About Page](Images/ABOUT.jpeg)
 *Meet the Team — Art Director, Tech Lead, and Product Manager profiles.*
 
 ### 📞 Contact Page
-![Contact Page](Images/CONTACT.jepg)
+![Contact Page](Images/CONTACT.jpeg)
 *Contact form with First Name, Last Name, Email, Message fields, and an embedded Google Map.*
 
 ### 📞 Cart Page
-![CART Page](Images/CART.jepg)
+![CART Page](Images/CART.jpeg)
 *Cart page showing added items, quantities, and checkout option.*
 
 ---
