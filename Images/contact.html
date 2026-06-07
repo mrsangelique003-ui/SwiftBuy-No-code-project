@@ -1,0 +1,30 @@
+<?php
+
+if(isset($_POST['submit']))
+{
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    echo "<h2>Message Received</h2>";
+
+    echo "Name: ".$name."<br>";
+    echo "Email: ".$email."<br>";
+    echo "Message: ".$message;
+}
+
+?>
+
+<form method="POST">
+
+    <input type="text" name="name" placeholder="Your Name" required><br><br>
+
+    <input type="email" name="email" placeholder="Your Email" required><br><br>
+
+    <textarea name="message" placeholder="Message"></textarea><br><br>
+
+    <button type="submit" name="submit">
+        Send
+    </button>
+
+</form>
