@@ -82,7 +82,7 @@
 *Contact form with First Name, Last Name, Email, Message fields, and an embedded Google Map.*
 
 ### 📞 Cart Page
-![CART Page](Images/CART.. jpeg)
+![CART Page](Images/CART.jpeg)
 *Cart page showing added items, quantities, and checkout option.*
 
 ---
