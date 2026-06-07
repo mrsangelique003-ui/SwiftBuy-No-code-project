@@ -74,15 +74,15 @@
 *All Products listing — 6 items with images and RWF pricing.*
 
 ### 👥 About Page
-![About Page](Images/ABOUT.jpg)
+![About Page](Images/ABOUT.jpeg)
 *Meet the Team — Art Director, Tech Lead, and Product Manager profiles.*
 
 ### 📞 Contact Page
-![Contact Page](Images/CONTACT.jpg)
+![Contact Page](Images/CONTACT.jpeg)
 *Contact form with First Name, Last Name, Email, Message fields, and an embedded Google Map.*
 
 ### 📞 Cart Page
-![CART Page](Images/CART.jpg)
+![CART Page](Images/CART.jpeg)
 *Cart page showing added items, quantities, and checkout option.*
 
 ---
